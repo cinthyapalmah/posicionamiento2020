@@ -1,0 +1,47 @@
+div{width:300px;height:200px;margin:20px;
+	display:inline-block;
+	border:1px solid #000;
+}
+.colombia{
+	background-image:linear-gradient(yellow 33%, blue 33%, blue 66.66%, red 66.66%);
+}
+
+.francia{
+	background-image:linear-gradient(90deg,red 33%, white 33%, white 66.66%, blue 66.66%);
+}
+
+
+
+.japon{
+	background-image:radial-gradient(circle, red 33%, white 33%, white);
+}
+
+.espania{
+	background-image:linear-gradient(red 33%, yellow 33%, yellow 66.66%, red 66.66%);
+}
+
+.costarica{
+
+		background: -webkit-linear-gradient(top, #022a7f 17%, #fff 17%, #fff 33%, #ce1127 33%, #ce1127 66%, #fff 66%, #fff 83%, #022a7f 83%, #022a7f 83%);
+		background: linear-gradient(to bottom, #022a7f 17%, #fff 17%, #fff 33%, #ce1127 33%, #ce1127 66%, #fff 66%, #fff 83%, #022a7f 83%, #022a7f 83%);		
+	}
+
+	.chile {
+		background: linear-gradient(to bottom, white, white 50%, #D52B1E 50%, #D52B1E 100%);
+		position: relative; }
+
+		.chile:after {
+			position: absolute;
+			content: "★";
+			box-sizing: border-box;
+			color: white;
+			font-size: 40px;
+			text-align: center;
+			background: #0039A6;
+			height:100px;
+			width: 100px;
+			left: 0;
+			padding-top: 16px; }
+	
+			.islandia {
+				background: linear-gradient(to bottom, transparent 43%, #D72828 43%, #D72828 54%, transparent 54%), linear-gradient(to right, transparent 34%, #D72828 34%, #D72828 41%, transparent 41%), linear-gradient(to right, transparent 30%, white 30%, white 45%, transparent 45%), linear-gradient(to bottom, transparent 38%, white 38%, white 59%, transparent 59%), #003897; }
